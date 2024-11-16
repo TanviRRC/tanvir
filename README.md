@@ -17,11 +17,12 @@
 - <b>Destini</b><br>
   - [Destini)](https://github.com/TanviRRC/destini)
   ( It is a game where the player will be given two options. By choosing a option the game will progress. )
+
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="tanvir | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:tanvirchowdury59@gmail.com)
 
-[email]: <a href="mailto:tanvirchowdury59@gmail.com"></a>
+
 
 
 
