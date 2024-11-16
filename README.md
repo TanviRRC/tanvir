@@ -15,7 +15,7 @@
   - [Quiz App](https://github.com/TanviRRC/quiz)<br>
   ( A simple app for quiz. )
 - <b>Destini</b><br>
-  - [Destini)](https://github.com/TanviRRC/destini)
+  - [Destini](https://github.com/TanviRRC/destini)
   ( It is a game where the player will be given two options. By choosing a option the game will progress. )
 
 <h2> 🤳 Connect with me:</h2>
